@@ -1,6 +1,6 @@
-esta es prueba manejando VSCODE-GIT
+esta es prueba de VSCODE-GIT
 
-tengo tarea de SCRUM 
+tengo tarea de SCRUM de mi PROYECTO 
 fecha de presentacion es 04102023
 hora de presentacion 1900
-realizar los diferentes artefactos para realizar ing de materia
+realizar los diferentes artefactos para realizar ING de SOFTWARE
