@@ -3,3 +3,4 @@ GUARDAR CMDO FOR GIT
 git config --global core.editor
 git config --global color.ui false
 git config --global color.ui true
+esto esta bueno
